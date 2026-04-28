@@ -1,0 +1,7 @@
+pandas
+plotly-express
+streamlit
+
+
+# Aplicação web:
+https://projetosprint5-2o8e.onrender.com
