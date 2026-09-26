@@ -1,9 +1,7 @@
-Projetos de Ciência de Dados — TripleTen
+<h1>Projetos de Ciência de Dados — TripleTen</h1>
+<br></br>
 
-
-
-
-👨‍💻 Sobre o projeto
+<h3>Sobre o projeto</h3>
 
 Este repositório reúne projetos práticos desenvolvidos durante o Bootcamp de Ciência de Dados da TripleTen, realizados ao longo das diferentes etapas da formação.
 
@@ -11,7 +9,8 @@ Os projetos foram desenvolvidos com foco na aplicação prática de conceitos de
 
 O objetivo do repositório é documentar minha evolução técnica e demonstrar a aplicação dos conhecimentos adquiridos na resolução de problemas envolvendo dados.
 
-🎯 Objetivos da formação
+<br></br>
+<h3>Objetivos da formação</h3>
 
 Durante o desenvolvimento dos projetos, foram trabalhadas competências relacionadas a:
 
@@ -30,8 +29,11 @@ Processamento de Linguagem Natural (NLP);
 Visão Computacional;
 Utilização de ferramentas de desenvolvimento de software;
 Organização e versionamento de projetos com Git e GitHub.
-📚 Projetos e etapas
-🐍 Sprint 1 — Python Básico
+
+<br></br>
+<h2>Projetos e etapas</h2>
+
+<h3>Sprint 1 — Python Básico</h3>
 
 Introdução à programação utilizando Python e desenvolvimento da lógica necessária para trabalhar com dados.
 
@@ -45,7 +47,9 @@ Estruturas de repetição;
 Funções;
 Estruturas de dados;
 Manipulação de informações.
-🐍 Sprint 2 — Continuação de Python Básico
+
+<br></br>
+<h3>Sprint 2 — Continuação de Python Básico</h3>
 
 Aprofundamento dos fundamentos de programação e aplicação de Python em problemas práticos.
 
@@ -57,7 +61,9 @@ Manipulação de dados;
 Organização do código;
 Lógica de programação;
 Desenvolvimento de soluções utilizando Python.
-📊 Sprint 3 — Manipulação de Dados
+
+<br></br>
+<h3>Sprint 3 — Manipulação de Dados</h3>
 
 Aplicação de Python para manipulação, preparação e exploração de conjuntos de dados.
 
@@ -79,7 +85,9 @@ Tecnologias:
 Python;
 Pandas;
 Jupyter Notebook.
-📈 Sprint 4 — Análise Estatística de Dados
+
+<br></br>
+<h3>Sprint 4 — Análise Estatística de Dados</h3>
 
 Aplicação de conceitos estatísticos para compreender padrões, comportamentos e relações presentes nos dados.
 
@@ -93,7 +101,9 @@ Análise de correlação;
 Testes estatísticos;
 Interpretação de resultados;
 Visualização para análise estatística.
-🛠️ Sprint 5 — Ferramentas de Desenvolvimento de Software
+
+<br></br>
+<h3>Sprint 5 — Ferramentas de Desenvolvimento de Software</h3>
 
 Utilização de ferramentas e práticas voltadas à organização e desenvolvimento de projetos de programação e Ciência de Dados.
 
@@ -106,7 +116,9 @@ Jupyter Notebook;
 Organização de projetos;
 Boas práticas de desenvolvimento;
 Documentação de código.
-📊 Sprint 6 — Projeto Integrado 1
+
+<br></br>
+<h3>Sprint 6 — Projeto Integrado 1</h3>
 
 Aplicação integrada dos conhecimentos desenvolvidos nas etapas anteriores em um projeto prático de análise de dados.
 
@@ -121,7 +133,10 @@ Visualização;
 Identificação de padrões;
 Interpretação dos resultados;
 Elaboração de conclusões orientadas pelos dados.
-🗄️ Sprint 7 — Coleta e Armazenamento de Dados (SQL)
+
+
+<br></br>
+<h3>Sprint 7 — Coleta e Armazenamento de Dados (SQL)</h3>
 
 Introdução ao uso de bancos de dados relacionais e SQL para consulta e análise de informações.
 
@@ -138,7 +153,11 @@ Joins;
 Relacionamento entre tabelas;
 Filtragem e transformação de dados;
 Análise de dados armazenados em bancos relacionais.
-🤖 Sprint 8 — Introdução ao Aprendizado Automático
+
+
+<br></br>
+
+<h3>Sprint 8 — Introdução ao Aprendizado Automático</h3>
 
 Introdução aos conceitos fundamentais de Machine Learning e ao processo de construção de modelos preditivos.
 
@@ -157,7 +176,10 @@ Tecnologia principal:
 
 Python;
 Scikit-learn.
-🧠 Sprint 9 — Aprendizado Supervisionado
+
+<br></br>
+
+<h3>Sprint 9 — Aprendizado Supervisionado</h3>
 
 Aprofundamento em algoritmos de aprendizado supervisionado aplicados a problemas de classificação e regressão.
 
@@ -180,7 +202,10 @@ Python;
 Pandas;
 Scikit-learn;
 Jupyter Notebook.
-💼 Sprint 10 — Aprendizado Automático para os Negócios
+
+<br></br>
+
+<h3>Sprint 10 — Aprendizado Automático para os Negócios</h3>
 
 Aplicação de Machine Learning em problemas orientados a negócios.
 
@@ -197,7 +222,9 @@ Seleção de soluções com base em métricas.
 
 O foco desta etapa foi aproximar o desenvolvimento de modelos de Machine Learning da resolução de problemas reais de negócio.
 
-📐 Sprint 11 — Álgebra Linear
+<br></br>
+
+<h3>Sprint 11 — Álgebra Linear</h3>
 
 Estudo de conceitos matemáticos fundamentais para Ciência de Dados e Machine Learning.
 
@@ -212,7 +239,9 @@ Representação matemática de dados.
 
 A álgebra linear fornece uma base importante para compreender o funcionamento de diversos algoritmos de Machine Learning.
 
-🔢 Sprint 12 — Métodos Numéricos
+<br></br>
+
+<h3>Sprint 12 — Métodos Numéricos</h3>
 
 Aplicação de métodos numéricos relacionados à resolução computacional de problemas matemáticos.
 
@@ -223,7 +252,10 @@ Aproximações;
 Resolução computacional;
 Otimização;
 Aplicação de matemática computacional em problemas de dados.
-⏱️ Sprint 13 — Séries Temporais
+
+<br></br>
+
+<h3>Sprint 13 — Séries Temporais</h3>
 
 Análise de dados organizados ao longo do tempo e desenvolvimento de modelos para identificação de padrões temporais.
 
@@ -237,7 +269,11 @@ Preparação de dados temporais;
 Modelagem;
 Previsão;
 Avaliação de modelos.
-📝 Sprint 14 — Aprendizado Automático para Textos
+
+
+<br></br>
+
+<h3>Sprint 14 — Aprendizado Automático para Textos</h3>
 
 Aplicação de Machine Learning em dados textuais.
 
@@ -257,7 +293,10 @@ Python;
 Pandas;
 Scikit-learn;
 Bibliotecas de processamento de texto.
-👁️ Sprint 15 — Visão Computacional
+
+<br></br>
+
+<h3>Sprint 15 — Visão Computacional</h3>
 
 Aplicação de técnicas de Machine Learning e Deep Learning para análise e processamento de imagens.
 
@@ -270,7 +309,11 @@ Redes neurais;
 Deep Learning;
 Extração de características;
 Treinamento e avaliação de modelos.
-🧰 Tecnologias e ferramentas
+
+
+<br></br>
+
+<h3>Tecnologias e ferramentas</h3>
 Linguagens
 Python
 SQL
@@ -309,7 +352,10 @@ Git
 GitHub
 Jupyter Notebook
 VS Code
-🔬 Metodologia de trabalho
+
+<br></br>
+
+<h3>Metodologia de trabalho</h3>
 
 Os projetos seguem, de forma geral, um fluxo de trabalho baseado no ciclo de desenvolvimento de projetos de dados:
 
@@ -337,7 +383,7 @@ Conclusões e recomendações
 
 Essa abordagem permite trabalhar não apenas com a construção de modelos, mas também com as etapas anteriores e posteriores necessárias para transformar dados em informações úteis.
 
-📊 Competências desenvolvidas
+<h3>Competências desenvolvidas</h3>
 Data Analysis
 Limpeza e preparação de dados
 Análise exploratória
@@ -364,19 +410,26 @@ Git
 GitHub
 Jupyter Notebook
 Organização e documentação de projetos
-🎓 Formação
+
+<br></br>
+
+<h3>Formação</h3>
 
 Bootcamp de Ciência de Dados — TripleTen
 
 Projetos desenvolvidos como parte da formação prática em Ciência de Dados.
 
-👨‍💻 Sobre mim
+<br></br>
+
+<h2>Sobre mim</h2>
 
 Sou profissional formado em Administração e estou em transição de carreira para a área de Dados, buscando integrar minha experiência em administração, finanças, operações e análise de indicadores ao desenvolvimento de competências técnicas em Ciência de Dados.
 
 Tenho interesse em atuar como Analista de Dados Júnior ou Cientista de Dados Júnior, utilizando dados para apoiar decisões, identificar padrões, solucionar problemas e gerar informações relevantes para o negócio.
 
-🔗 Contatos
+<br></br>
+
+<h3>Contatos</h3>
 
 GitHub:
 https://github.com/drialcantaras
@@ -384,4 +437,4 @@ https://github.com/drialcantaras
 LinkedIn:
 https://www.linkedin.com/in/adrianoalcantaras
 
-⭐ Este repositório representa minha trajetória de aprendizado e evolução técnica durante a formação em Ciência de Dados.
+Este repositório representa minha trajetória de aprendizado e evolução técnica durante a formação em Ciência de Dados.
